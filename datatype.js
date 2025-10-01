@@ -30,24 +30,25 @@
 
 // console.log(id===anotherid);
 
-const bignumber =236548454
-8888855479n    // bigint 
+// const bignumber =236548454
+// 8888855479n    // bigint 
 
 
-const heros= ["shaktiman", "naagraj","doga"]; /// array 
+// const heros= ["shaktiman", "naagraj","doga"]; /// array 
 
-let myobj={
-  name: "rohit",
-  age: 20,
-}
+// let myobj={
+//   name: "rohit",
+//   age: 20,
+// }
 
-const myFunc =function(){
-  console.log("hello world");
-}
+// const myFunc =function(){
+//   console.log("hello world");
+// }
 
-console.log(typeof myFunc);
+// console.log(typeof myFunc);
 
-console.log(typeof heros);
-console.log(typeof myobj);
+// console.log(typeof heros);
+// console.log(typeof myobj);
 
 
+ 
