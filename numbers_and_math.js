@@ -12,4 +12,14 @@ console.log(balance.toString().length)
  const otherNumber= 23.999
  console.log(otherNumber.toPrecision(3));
 
- 
+ const hundreds = 10000000
+ console.log(hundreds.toLocaleString('en-IN'));
+   
+ console.log(Math)
+ console.log(Math.abs(-4));
+ console.log(Math.round(4.6)); //5
+
+ console.log(Math.ceil(4.2)); 
+ console.log(Math.floor(4.9)
+ );
+
